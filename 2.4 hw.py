@@ -1,0 +1,18 @@
+num = "4.2"
+num2 = round(float(num))
+print(num2 * int(3.4))
+
+print1 = float(input('type any number : '))
+print2 = float(input('type another number : '))
+print0 = float(input('type one last number : '))
+print9 = min(print1,print2,print0)
+print7 = max(print1,print2,print0)
+print('the lowest number of what you typed was ',print9)
+print('the highest number of what you typed was ',print7)
+j = len(str('You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.'))
+print('the lenth of “You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.” is ',j)
+s = sum([3.45,-99.45,1004.2,32,-1.234,67.555])
+print('the sum of 3.45 + -99.45 + 1004.2 + 32 + -1.234 + 67.555 is',s)
+j = (input('enter the longest whole number you can think of : '))
+s = len(j)
+print(s)
