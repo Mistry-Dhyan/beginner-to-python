@@ -1,24 +1,24 @@
 ####### red lines that start with hashtags are called comments
-######print("Hello World!")
-######print("Monday\n\tTuesday\n\t\tWednesday\n\t\t\tThurday\n\t\t\t\tFriday")
-######print("Saturday\nSunday")
-##
-##a = 999
-##b = 9999
-##print(a,'-',b,'=',a-b)
-##
-##q = 999.999
-##f = 256426.652965
-##print(q*f/b+a)
-##
-##name = 'Dhyan'
-##print(name,'hello!')
-##
-##
-##age = 10
-##print(age)
-##age = age + 1
-##print(age)
+print("Hello World!")
+print("Monday\n\tTuesday\n\t\tWednesday\n\t\t\tThurday\n\t\t\t\tFriday")
+print("Saturday\nSunday")
+
+a = 999
+b = 9999
+print(a,'-',b,'=',a-b)
+
+q = 999.999
+f = 256426.652965
+print(q*f/b+a)
+
+name = 'Dhyan'
+print(name,'hello!')
+
+
+age = 10
+print(age)
+age = age + 1
+print(age)
 
 print('a vaiable is a box that stors numbers and words')
 a = 55
